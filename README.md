@@ -1,2 +1,2 @@
-# Lab-5
-Level 1
+# JSPlatformer
+JS Platformer for DIG 3480C
